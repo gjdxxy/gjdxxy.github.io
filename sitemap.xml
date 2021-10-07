@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gjdxxy.github.io/posts/58989ad0.html</loc>
+    
+    <lastmod>2021-10-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gjdxxy.github.io/posts/e1c74715.html</loc>
     
     <lastmod>2021-10-03</lastmod>
@@ -102,7 +109,7 @@
 
   <url>
     <loc>https://gjdxxy.github.io/</loc>
-    <lastmod>2021-10-03</lastmod>
+    <lastmod>2021-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -112,28 +119,28 @@
   
   <url>
     <loc>https://gjdxxy.github.io/categories/%E5%9B%BD%E9%99%85%E7%9F%AD%E4%BF%A1/</loc>
-    <lastmod>2021-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gjdxxy.github.io/categories/%E5%8F%A4%E8%AF%97%E8%AF%8D/</loc>
-    <lastmod>2021-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gjdxxy.github.io/categories/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F-vx%EF%BC%9Aqqdx168/</loc>
-    <lastmod>2021-10-03</lastmod>
+    <lastmod>2021-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://gjdxxy.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2021-10-03</lastmod>
+    <lastmod>2021-10-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gjdxxy.github.io/categories/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F-vx%EF%BC%9Aqqdx168/</loc>
+    <lastmod>2021-10-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gjdxxy.github.io/categories/%E5%8F%A4%E8%AF%97%E8%AF%8D/</loc>
+    <lastmod>2021-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
